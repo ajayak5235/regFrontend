@@ -5,7 +5,7 @@ import Dropdown from './Dropdown';
 import RadioButton from './RadioButton';
 import DateInput from './DateInput';
 import '../App.css';
-const Base_URL = "https://registration-tau-seven.vercel.app/"
+const Base_URL = "https://registration-kappa-nine.vercel.app"
 
 const RegistrationForm = () => {
   const [formData, setFormData] = useState({
